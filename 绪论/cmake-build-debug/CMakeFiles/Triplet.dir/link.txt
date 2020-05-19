@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Triplet.dir/抽象数据类型Triplet.c.o  -o Triplet 
