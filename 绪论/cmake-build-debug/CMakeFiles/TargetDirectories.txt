@@ -1,3 +1,0 @@
-/home/li/CLionProjects/数据结构(C语言版)/绪论/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/li/CLionProjects/数据结构(C语言版)/绪论/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/li/CLionProjects/数据结构(C语言版)/绪论/cmake-build-debug/CMakeFiles/Triplet.dir

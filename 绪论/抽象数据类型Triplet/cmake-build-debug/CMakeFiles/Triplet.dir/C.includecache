@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/CLionProjects/数据结构(C语言版)/绪论/抽象数据类型Triplet/抽象数据类型Triplet.c
+stdio.h
+/home/li/CLionProjects/数据结构(C语言版)/绪论/抽象数据类型Triplet/stdio.h
+stdlib.h
+/home/li/CLionProjects/数据结构(C语言版)/绪论/抽象数据类型Triplet/stdlib.h
+
