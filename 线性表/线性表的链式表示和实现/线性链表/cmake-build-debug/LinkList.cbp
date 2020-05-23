@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug"/>
+				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug"/>
+				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug"/>
+				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="LinkList">
-				<Option output="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/LinkList" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug"/>
+			<Target title="SLinkList">
+				<Option output="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/SLinkList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkList"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 SLinkList"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="LinkList/fast">
-				<Option output="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/LinkList" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug"/>
+			<Target title="SLinkList/fast">
+				<Option output="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/SLinkList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +77,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkList/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 SLinkList/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/LinkList.c">
-			<Option target="LinkList"/>
+		<Unit filename="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/LinkList.c">
+			<Option target="SLinkList"/>
 		</Unit>
-		<Unit filename="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/CMakeLists.txt">
+		<Unit filename="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

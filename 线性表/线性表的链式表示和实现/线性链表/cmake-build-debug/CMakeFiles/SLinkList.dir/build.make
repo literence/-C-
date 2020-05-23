@@ -57,27 +57,27 @@ include CMakeFiles/SLinkList.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SLinkList.dir/flags.make
 
-CMakeFiles/SLinkList.dir/SLinkList.c.o: CMakeFiles/SLinkList.dir/flags.make
-CMakeFiles/SLinkList.dir/SLinkList.c.o: ../SLinkList.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SLinkList.dir/SLinkList.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SLinkList.dir/SLinkList.c.o   -c "/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/SLinkList.c"
+CMakeFiles/SLinkList.dir/LinkList.c.o: CMakeFiles/SLinkList.dir/flags.make
+CMakeFiles/SLinkList.dir/LinkList.c.o: ../LinkList.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SLinkList.dir/LinkList.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SLinkList.dir/LinkList.c.o   -c "/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/LinkList.c"
 
-CMakeFiles/SLinkList.dir/SLinkList.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SLinkList.dir/SLinkList.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/SLinkList.c" > CMakeFiles/SLinkList.dir/SLinkList.c.i
+CMakeFiles/SLinkList.dir/LinkList.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SLinkList.dir/LinkList.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/LinkList.c" > CMakeFiles/SLinkList.dir/LinkList.c.i
 
-CMakeFiles/SLinkList.dir/SLinkList.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SLinkList.dir/SLinkList.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/SLinkList.c" -o CMakeFiles/SLinkList.dir/SLinkList.c.s
+CMakeFiles/SLinkList.dir/LinkList.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SLinkList.dir/LinkList.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/LinkList.c" -o CMakeFiles/SLinkList.dir/LinkList.c.s
 
 # Object files for target SLinkList
 SLinkList_OBJECTS = \
-"CMakeFiles/SLinkList.dir/SLinkList.c.o"
+"CMakeFiles/SLinkList.dir/LinkList.c.o"
 
 # External object files for target SLinkList
 SLinkList_EXTERNAL_OBJECTS =
 
-SLinkList: CMakeFiles/SLinkList.dir/SLinkList.c.o
+SLinkList: CMakeFiles/SLinkList.dir/LinkList.c.o
 SLinkList: CMakeFiles/SLinkList.dir/build.make
 SLinkList: CMakeFiles/SLinkList.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/线性链表/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable SLinkList"

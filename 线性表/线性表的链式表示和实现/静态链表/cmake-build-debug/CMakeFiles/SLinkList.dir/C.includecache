@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/CLionProjects/数据结构(C语言版)/线性表/线性表的链式表示和实现/静态链表/SLinkList.c
+stdio.h
+-
+stdlib.h
+-
+

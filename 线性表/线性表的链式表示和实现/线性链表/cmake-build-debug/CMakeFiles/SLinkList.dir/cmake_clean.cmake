@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SLinkList.dir/SLinkList.c.o"
+  "CMakeFiles/SLinkList.dir/LinkList.c.o"
   "SLinkList"
   "SLinkList.pdb"
 )

@@ -123,32 +123,32 @@ SLinkList/fast:
 	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/build
 .PHONY : SLinkList/fast
 
-SLinkList.o: SLinkList.c.o
+LinkList.o: LinkList.c.o
 
-.PHONY : SLinkList.o
+.PHONY : LinkList.o
 
 # target to build an object file
-SLinkList.c.o:
-	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/SLinkList.c.o
-.PHONY : SLinkList.c.o
+LinkList.c.o:
+	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/LinkList.c.o
+.PHONY : LinkList.c.o
 
-SLinkList.i: SLinkList.c.i
+LinkList.i: LinkList.c.i
 
-.PHONY : SLinkList.i
+.PHONY : LinkList.i
 
 # target to preprocess a source file
-SLinkList.c.i:
-	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/SLinkList.c.i
-.PHONY : SLinkList.c.i
+LinkList.c.i:
+	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/LinkList.c.i
+.PHONY : LinkList.c.i
 
-SLinkList.s: SLinkList.c.s
+LinkList.s: LinkList.c.s
 
-.PHONY : SLinkList.s
+.PHONY : LinkList.s
 
 # target to generate assembly for a file
-SLinkList.c.s:
-	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/SLinkList.c.s
-.PHONY : SLinkList.c.s
+LinkList.c.s:
+	$(MAKE) -f CMakeFiles/SLinkList.dir/build.make CMakeFiles/SLinkList.dir/LinkList.c.s
+.PHONY : LinkList.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... SLinkList"
-	@echo "... SLinkList.o"
-	@echo "... SLinkList.i"
-	@echo "... SLinkList.s"
+	@echo "... LinkList.o"
+	@echo "... LinkList.i"
+	@echo "... LinkList.s"
 .PHONY : help
 
 
