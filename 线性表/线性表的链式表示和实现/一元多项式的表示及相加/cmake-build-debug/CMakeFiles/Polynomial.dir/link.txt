@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Polynomial.dir/Polynomial.c.o  -o Polynomial 
